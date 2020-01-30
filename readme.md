@@ -1,6 +1,7 @@
 ## Build and Run Instructions ##
 1 - Ensure that the tsconfig.json file is configured in the root of your project directory.  It should contain the following:
 
+````json
 {
     "compilerOptions": {
     "target": "es5"
@@ -12,6 +13,7 @@
         "ProductSystem.ts",
       ]
   }
+````
 
 2 - Ensure that Node.js is installed on your machine
 
