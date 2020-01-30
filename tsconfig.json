@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+    "target": "es5"
+    },
+    "include": [
+        "IProducts.ts",
+        "ProductsListings.ts",
+        "ProductsAdapter.ts",
+        "ProductSystem.ts",
+      ]
+  }
