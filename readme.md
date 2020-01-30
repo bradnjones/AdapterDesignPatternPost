@@ -30,7 +30,6 @@
     node OnlineShop.js
 
     When you've run it, you should see the following print on the terminal
-
 ```html
 <span>Samsung HD TV</span>
 <span>Exercise Bike</span>
